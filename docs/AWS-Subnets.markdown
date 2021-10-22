@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Subnets"
-permalink: /AWSSubnets/
+title: Subnets
+permalink: /aws/
 ---
 
 **This page described about the networking section of AWS. Especially the subnets.**
