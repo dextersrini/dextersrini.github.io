@@ -22,8 +22,9 @@ title: Srinivasan M
 email: dextersrini@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Architect ~ Software Engg. Specialist ~ Coding ~ Devops ~ Break Monolith
+domain: dextersrini.github.io
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: https://dextersrini.github.io # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: dexter.srini@gmail.com
 github_username:  dexter.srini@gmail.com
 
