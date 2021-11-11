@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2021-10-22 21:07:50 +0530
+title:  "AWS Compute Page"
+date:   2021-10-20 21:07:50 +0530
 categories: jekyll update
 ---
 
